@@ -1,1 +1,1 @@
-# exemplos_servico_AngularJS
+ Exemplo de serviço utilizando factory e service.
